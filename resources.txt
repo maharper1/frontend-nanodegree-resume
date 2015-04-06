@@ -1,0 +1,7 @@
+Info concerning the use of the HTML <details> Tag
+http://www.w3schools.com/tags/tag_details.asp and other linked pages.
+
+HTML Color Picker
+http://www.w3schools.com/tags/ref_colorpicker.asp
+
+Plus other googlings which I have forgotten the specifics of!
