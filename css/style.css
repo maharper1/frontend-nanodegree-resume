@@ -15,15 +15,19 @@
 
 h1 {
   font-size: 40px;
-  color: #F5A623;
+  color: Gold; //#F5A623;
   line-height: 48px;
   display: inline;
+}
+
+hr {
+  border-color: Gold;
 }
 
 h2 {
   font-weight: bold;
   font-size: 24px;
-  color: #999999;
+  color: #9999D1; //#999999;
   line-height: 29px;
   padding: 10px;
 }
@@ -48,6 +52,10 @@ h2, h3, h4, h5 {
   padding-right: 5%;
 }
 
+summary {
+  color: #9999D1;
+  font-size: 14px;
+}
 
 .date-text {
   font-style: italic;
@@ -73,7 +81,7 @@ p {
 }
 
 a {
-  color: #1199C3;
+  color: #6666B9; // #1199C3;
   text-decoration: none;
   margin-top: 10px;
   display: block;
@@ -82,26 +90,26 @@ a {
 .welcome-message {
   font-style: italic;
   font-size: 18px;
-  color: #F3F3F3;
+  color: Azure; //#F3F3F3;
   line-height: 28px;
 }
 
 #skillsH3 {
-  color: #F5AE23;
+  color: Gold; //#F5AE23;
   display: none;
 }
 
 .orange {
-  background-color: #F5AE23;
+  background-color: DarkBlue; //#F5AE23;
 }
 
 .orange-text {
-  color: #F5AE23;
+  color: DarkBlue; //#F5AE23;
 }
 
 .white-text {
   font-weight: bold;
-  color: #FFFFFF;
+  color: Azure; // #FFFFFF;
 }
 
 .gray {
@@ -111,12 +119,12 @@ a {
 }
 
 .dark-gray {
-  background-color: #4A4A4A;
+  background-color: GoldenRod; //#4A4A4A;
 }
 
 /* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  background-color:  DarkBlue; //#484848;
 }
 
 .flex-box {
@@ -125,7 +133,7 @@ a {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-around;
-  padding: 10px;
+  padding: 5px; //10px;
 }
 
 .center-content {
@@ -164,6 +172,7 @@ img {
 
 span {
   padding: 5px;
+  color: #9999D1;
 }
 
 #letsConnect {
